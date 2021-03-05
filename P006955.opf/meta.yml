@@ -1,15 +1,16 @@
-id: opecha:P006955
+id: P006955
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN4341
   title: སྙིང་ཐིག་གི་སྔོན་འགྲོའི་ཟིན་བྲིས།
-  volume:
+  author: ''
+  volumes:
     f02aa76c2af344eeb4091a54fefbd638:
       image_group_id: I3CN4576
       title: Volume 1 of snying thig sngon 'gro'i zin bris/
       volume_number: 1
       total_pages: 274
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: སྙིང་ཐིག་གི་སྔོན་འགྲོའི་ཟིན་བྲིས།
   author: ''
